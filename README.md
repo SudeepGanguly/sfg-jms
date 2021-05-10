@@ -1,1 +1,1 @@
-# sfg-jms
+# mssc-beer-service
